@@ -1,0 +1,3002 @@
+[
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "DNS request to a suspicious domain."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Regular email check from internal server."
+    },
+    {
+        "text": "Ransomware detected attempting to encrypt files."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "File sharing over local network."
+    },
+    {
+        "text": "Routine software update via internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Multiple failed login attempts detected."
+    },
+    {
+        "text": "Unusual port scanning activity detected from external IP."
+    },
+    {
+        "text": "Data exfiltration attempt via unencrypted channel."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    },
+    {
+        "text": "Normal web browsing from internal network."
+    },
+    {
+        "text": "DNS resolution request for known domain."
+    }
+]

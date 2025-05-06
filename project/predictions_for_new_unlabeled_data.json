@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Suspicious activity detected on the network.",
+        "prediction": "Benign"
+    },
+    {
+        "text": "Normal traffic from internal network to web server.",
+        "prediction": "Benign"
+    },
+    {
+        "text": "Accessing restricted IP address.",
+        "prediction": "Benign"
+    },
+    {
+        "text": "Routine data synchronization.",
+        "prediction": "Benign"
+    }
+]

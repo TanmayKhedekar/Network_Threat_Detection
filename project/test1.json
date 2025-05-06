@@ -1,0 +1,802 @@
+[
+  {
+    "text": "SrcIP: 192.168.184.4, DstIP: 10.0.80.58, Protocol: TCP, SrcPort: 35583, DstPort: 53, Flags: SYN, PayloadSize: 1082",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.185.160, DstIP: 10.0.150.222, Protocol: ICMP, SrcPort: 33561, DstPort: 22, Flags: RST, PayloadSize: 1476",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.46.205, DstIP: 10.0.174.254, Protocol: TCP, SrcPort: 40423, DstPort: 80, Flags: ACK, PayloadSize: 1770",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.134.145, DstIP: 10.0.58.127, Protocol: ICMP, SrcPort: 59595, DstPort: 53, Flags: SYN, PayloadSize: 226",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.103.128, DstIP: 10.0.58.31, Protocol: ICMP, SrcPort: 53187, DstPort: 80, Flags: SYN, PayloadSize: 1864",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.72.74, DstIP: 10.0.54.157, Protocol: ICMP, SrcPort: 34835, DstPort: 8080, Flags: SYN, PayloadSize: 1781",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.79.60, DstIP: 10.0.145.233, Protocol: UDP, SrcPort: 32169, DstPort: 80, Flags: FIN, PayloadSize: 350",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.68.180, DstIP: 10.0.215.210, Protocol: ICMP, SrcPort: 38671, DstPort: 53, Flags: PSH, PayloadSize: 162",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.89.86, DstIP: 10.0.180.235, Protocol: ICMP, SrcPort: 34341, DstPort: 22, Flags: SYN, PayloadSize: 341",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.17.250, DstIP: 10.0.73.108, Protocol: TCP, SrcPort: 47177, DstPort: 22, Flags: SYN, PayloadSize: 1652",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.136.152, DstIP: 10.0.76.66, Protocol: UDP, SrcPort: 15137, DstPort: 53, Flags: RST, PayloadSize: 874",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.204.21, DstIP: 10.0.6.137, Protocol: ICMP, SrcPort: 32420, DstPort: 53, Flags: ACK, PayloadSize: 162",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.145.193, DstIP: 10.0.137.69, Protocol: TCP, SrcPort: 57970, DstPort: 53, Flags: SYN, PayloadSize: 710",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.10.42, DstIP: 10.0.24.133, Protocol: ICMP, SrcPort: 47578, DstPort: 53, Flags: ACK, PayloadSize: 1465",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.217.128, DstIP: 10.0.186.51, Protocol: UDP, SrcPort: 45255, DstPort: 53, Flags: SYN, PayloadSize: 1050",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.148.117, DstIP: 10.0.217.97, Protocol: UDP, SrcPort: 62236, DstPort: 8080, Flags: SYN, PayloadSize: 1552",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.235.223, DstIP: 10.0.214.225, Protocol: UDP, SrcPort: 25034, DstPort: 53, Flags: RST, PayloadSize: 820",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.35.242, DstIP: 10.0.103.254, Protocol: ICMP, SrcPort: 49256, DstPort: 8080, Flags: RST, PayloadSize: 1664",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.184.75, DstIP: 10.0.186.23, Protocol: UDP, SrcPort: 61597, DstPort: 443, Flags: FIN, PayloadSize: 1691",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.46.83, DstIP: 10.0.12.58, Protocol: TCP, SrcPort: 59869, DstPort: 22, Flags: RST, PayloadSize: 205",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.14.71, DstIP: 10.0.158.216, Protocol: ICMP, SrcPort: 1724, DstPort: 443, Flags: ACK, PayloadSize: 1969",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.121.158, DstIP: 10.0.246.64, Protocol: ICMP, SrcPort: 8710, DstPort: 8080, Flags: PSH, PayloadSize: 847",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.39.143, DstIP: 10.0.14.14, Protocol: UDP, SrcPort: 5488, DstPort: 53, Flags: ACK, PayloadSize: 1661",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.166.153, DstIP: 10.0.93.138, Protocol: UDP, SrcPort: 35485, DstPort: 53, Flags: PSH, PayloadSize: 1281",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.238.166, DstIP: 10.0.228.31, Protocol: TCP, SrcPort: 41521, DstPort: 22, Flags: ACK, PayloadSize: 477",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.4.139, DstIP: 10.0.86.211, Protocol: TCP, SrcPort: 10680, DstPort: 53, Flags: FIN, PayloadSize: 290",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.173.118, DstIP: 10.0.222.247, Protocol: ICMP, SrcPort: 53854, DstPort: 22, Flags: FIN, PayloadSize: 1429",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.203.186, DstIP: 10.0.30.145, Protocol: ICMP, SrcPort: 8224, DstPort: 8080, Flags: ACK, PayloadSize: 1847",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.212.79, DstIP: 10.0.159.168, Protocol: UDP, SrcPort: 56673, DstPort: 53, Flags: ACK, PayloadSize: 1252",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.120.246, DstIP: 10.0.166.112, Protocol: ICMP, SrcPort: 22227, DstPort: 53, Flags: ACK, PayloadSize: 1418",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.112.212, DstIP: 10.0.171.162, Protocol: TCP, SrcPort: 58675, DstPort: 8080, Flags: FIN, PayloadSize: 215",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.166.206, DstIP: 10.0.11.128, Protocol: ICMP, SrcPort: 36703, DstPort: 8080, Flags: ACK, PayloadSize: 1807",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.237.178, DstIP: 10.0.52.93, Protocol: UDP, SrcPort: 44754, DstPort: 22, Flags: RST, PayloadSize: 933",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.18.105, DstIP: 10.0.222.222, Protocol: ICMP, SrcPort: 27405, DstPort: 443, Flags: RST, PayloadSize: 261",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.45.89, DstIP: 10.0.53.119, Protocol: ICMP, SrcPort: 20504, DstPort: 8080, Flags: RST, PayloadSize: 1874",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.183.73, DstIP: 10.0.67.11, Protocol: UDP, SrcPort: 9601, DstPort: 53, Flags: SYN, PayloadSize: 1921",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.113.158, DstIP: 10.0.73.218, Protocol: ICMP, SrcPort: 63481, DstPort: 443, Flags: RST, PayloadSize: 1693",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.23.145, DstIP: 10.0.24.177, Protocol: UDP, SrcPort: 26720, DstPort: 22, Flags: SYN, PayloadSize: 97",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.14.46, DstIP: 10.0.91.90, Protocol: ICMP, SrcPort: 19120, DstPort: 22, Flags: FIN, PayloadSize: 1499",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.90.210, DstIP: 10.0.232.168, Protocol: TCP, SrcPort: 15526, DstPort: 22, Flags: ACK, PayloadSize: 1147",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.45.183, DstIP: 10.0.192.216, Protocol: UDP, SrcPort: 34441, DstPort: 53, Flags: SYN, PayloadSize: 1990",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.201.72, DstIP: 10.0.80.51, Protocol: ICMP, SrcPort: 53976, DstPort: 8080, Flags: PSH, PayloadSize: 1541",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.88.131, DstIP: 10.0.77.100, Protocol: TCP, SrcPort: 2048, DstPort: 8080, Flags: FIN, PayloadSize: 832",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.68.222, DstIP: 10.0.223.155, Protocol: ICMP, SrcPort: 23042, DstPort: 22, Flags: ACK, PayloadSize: 1964",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.85.119, DstIP: 10.0.206.131, Protocol: ICMP, SrcPort: 33849, DstPort: 8080, Flags: SYN, PayloadSize: 1744",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.27.152, DstIP: 10.0.189.204, Protocol: UDP, SrcPort: 63247, DstPort: 53, Flags: ACK, PayloadSize: 852",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.134.252, DstIP: 10.0.126.40, Protocol: TCP, SrcPort: 24535, DstPort: 80, Flags: SYN, PayloadSize: 609",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.170.15, DstIP: 10.0.57.141, Protocol: UDP, SrcPort: 59480, DstPort: 53, Flags: PSH, PayloadSize: 1748",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.214.195, DstIP: 10.0.144.63, Protocol: ICMP, SrcPort: 34137, DstPort: 80, Flags: RST, PayloadSize: 1554",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.60.28, DstIP: 10.0.193.200, Protocol: TCP, SrcPort: 31145, DstPort: 8080, Flags: PSH, PayloadSize: 1810",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.1.122, DstIP: 10.0.127.191, Protocol: ICMP, SrcPort: 26074, DstPort: 53, Flags: ACK, PayloadSize: 1505",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.85.82, DstIP: 10.0.18.148, Protocol: ICMP, SrcPort: 36043, DstPort: 80, Flags: FIN, PayloadSize: 1451",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.176.42, DstIP: 10.0.19.154, Protocol: ICMP, SrcPort: 53756, DstPort: 53, Flags: SYN, PayloadSize: 1874",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.110.217, DstIP: 10.0.229.199, Protocol: ICMP, SrcPort: 65230, DstPort: 80, Flags: SYN, PayloadSize: 712",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.138.110, DstIP: 10.0.93.110, Protocol: ICMP, SrcPort: 39274, DstPort: 53, Flags: RST, PayloadSize: 1464",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.134.70, DstIP: 10.0.152.175, Protocol: ICMP, SrcPort: 33109, DstPort: 22, Flags: RST, PayloadSize: 1433",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.95.212, DstIP: 10.0.249.149, Protocol: UDP, SrcPort: 35799, DstPort: 53, Flags: FIN, PayloadSize: 1574",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.1.167, DstIP: 10.0.63.197, Protocol: UDP, SrcPort: 38900, DstPort: 8080, Flags: ACK, PayloadSize: 494",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.204.201, DstIP: 10.0.91.77, Protocol: ICMP, SrcPort: 53145, DstPort: 8080, Flags: ACK, PayloadSize: 780",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.126.224, DstIP: 10.0.246.118, Protocol: UDP, SrcPort: 11354, DstPort: 53, Flags: FIN, PayloadSize: 1920",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.251.22, DstIP: 10.0.87.107, Protocol: ICMP, SrcPort: 41637, DstPort: 80, Flags: PSH, PayloadSize: 1683",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.35.126, DstIP: 10.0.78.197, Protocol: TCP, SrcPort: 36797, DstPort: 8080, Flags: SYN, PayloadSize: 177",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.228.125, DstIP: 10.0.142.190, Protocol: TCP, SrcPort: 20502, DstPort: 22, Flags: ACK, PayloadSize: 1051",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.94.41, DstIP: 10.0.28.124, Protocol: TCP, SrcPort: 3528, DstPort: 53, Flags: SYN, PayloadSize: 104",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.15.221, DstIP: 10.0.153.117, Protocol: TCP, SrcPort: 56526, DstPort: 22, Flags: RST, PayloadSize: 1654",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.144.195, DstIP: 10.0.229.198, Protocol: UDP, SrcPort: 42597, DstPort: 443, Flags: RST, PayloadSize: 1778",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.88.129, DstIP: 10.0.218.205, Protocol: ICMP, SrcPort: 39662, DstPort: 80, Flags: PSH, PayloadSize: 633",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.43.57, DstIP: 10.0.162.16, Protocol: UDP, SrcPort: 3036, DstPort: 80, Flags: ACK, PayloadSize: 1791",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.122.21, DstIP: 10.0.103.202, Protocol: TCP, SrcPort: 46387, DstPort: 8080, Flags: FIN, PayloadSize: 130",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.183.185, DstIP: 10.0.155.150, Protocol: UDP, SrcPort: 7985, DstPort: 22, Flags: RST, PayloadSize: 596",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.241.10, DstIP: 10.0.150.30, Protocol: ICMP, SrcPort: 5439, DstPort: 8080, Flags: FIN, PayloadSize: 1798",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.120.85, DstIP: 10.0.95.24, Protocol: UDP, SrcPort: 16191, DstPort: 53, Flags: FIN, PayloadSize: 1318",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.113.202, DstIP: 10.0.116.203, Protocol: ICMP, SrcPort: 58026, DstPort: 22, Flags: SYN, PayloadSize: 325",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.120.137, DstIP: 10.0.218.220, Protocol: ICMP, SrcPort: 33552, DstPort: 80, Flags: RST, PayloadSize: 1407",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.21.57, DstIP: 10.0.114.109, Protocol: TCP, SrcPort: 3037, DstPort: 53, Flags: RST, PayloadSize: 1120",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.171.77, DstIP: 10.0.195.1, Protocol: TCP, SrcPort: 13147, DstPort: 22, Flags: SYN, PayloadSize: 830",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.105.196, DstIP: 10.0.194.129, Protocol: TCP, SrcPort: 11670, DstPort: 80, Flags: SYN, PayloadSize: 1594",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.96.181, DstIP: 10.0.114.86, Protocol: ICMP, SrcPort: 32568, DstPort: 8080, Flags: ACK, PayloadSize: 1662",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.80.37, DstIP: 10.0.104.125, Protocol: ICMP, SrcPort: 11147, DstPort: 8080, Flags: RST, PayloadSize: 1635",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.193.214, DstIP: 10.0.162.213, Protocol: ICMP, SrcPort: 61166, DstPort: 8080, Flags: PSH, PayloadSize: 1920",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.48.208, DstIP: 10.0.140.21, Protocol: ICMP, SrcPort: 59417, DstPort: 443, Flags: FIN, PayloadSize: 1905",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.125.125, DstIP: 10.0.161.69, Protocol: UDP, SrcPort: 47243, DstPort: 22, Flags: PSH, PayloadSize: 98",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.213.143, DstIP: 10.0.94.117, Protocol: ICMP, SrcPort: 42658, DstPort: 8080, Flags: SYN, PayloadSize: 1987",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.228.142, DstIP: 10.0.49.158, Protocol: ICMP, SrcPort: 44004, DstPort: 8080, Flags: RST, PayloadSize: 1428",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.155.177, DstIP: 10.0.14.148, Protocol: UDP, SrcPort: 9240, DstPort: 53, Flags: SYN, PayloadSize: 638",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.196.98, DstIP: 10.0.105.180, Protocol: ICMP, SrcPort: 65191, DstPort: 80, Flags: SYN, PayloadSize: 1212",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.27.28, DstIP: 10.0.176.205, Protocol: ICMP, SrcPort: 2999, DstPort: 22, Flags: ACK, PayloadSize: 1961",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.222.50, DstIP: 10.0.64.48, Protocol: TCP, SrcPort: 60087, DstPort: 80, Flags: PSH, PayloadSize: 1583",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.63.141, DstIP: 10.0.44.44, Protocol: TCP, SrcPort: 55542, DstPort: 22, Flags: ACK, PayloadSize: 284",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.174.191, DstIP: 10.0.148.25, Protocol: ICMP, SrcPort: 56331, DstPort: 80, Flags: SYN, PayloadSize: 1972",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.152.70, DstIP: 10.0.33.5, Protocol: TCP, SrcPort: 65435, DstPort: 8080, Flags: RST, PayloadSize: 1715",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.8.161, DstIP: 10.0.223.136, Protocol: ICMP, SrcPort: 22754, DstPort: 443, Flags: PSH, PayloadSize: 1820",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.1.186, DstIP: 10.0.33.158, Protocol: ICMP, SrcPort: 13313, DstPort: 80, Flags: PSH, PayloadSize: 1606",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.121.184, DstIP: 10.0.39.6, Protocol: ICMP, SrcPort: 11804, DstPort: 80, Flags: SYN, PayloadSize: 1496",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.243.8, DstIP: 10.0.130.246, Protocol: ICMP, SrcPort: 44414, DstPort: 53, Flags: FIN, PayloadSize: 1657",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.241.3, DstIP: 10.0.132.124, Protocol: ICMP, SrcPort: 39762, DstPort: 80, Flags: RST, PayloadSize: 1692",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.88.235, DstIP: 10.0.65.71, Protocol: TCP, SrcPort: 18574, DstPort: 53, Flags: ACK, PayloadSize: 1367",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.209.199, DstIP: 10.0.246.47, Protocol: ICMP, SrcPort: 20013, DstPort: 53, Flags: RST, PayloadSize: 1846",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.64.101, DstIP: 10.0.97.49, Protocol: UDP, SrcPort: 34092, DstPort: 53, Flags: RST, PayloadSize: 1170",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.183.183, DstIP: 10.0.155.197, Protocol: UDP, SrcPort: 64967, DstPort: 8080, Flags: ACK, PayloadSize: 623",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.184.231, DstIP: 10.0.1.168, Protocol: TCP, SrcPort: 45877, DstPort: 8080, Flags: SYN, PayloadSize: 34",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.114.245, DstIP: 10.0.246.41, Protocol: UDP, SrcPort: 37862, DstPort: 53, Flags: FIN, PayloadSize: 690",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.244.124, DstIP: 10.0.138.67, Protocol: UDP, SrcPort: 55710, DstPort: 22, Flags: RST, PayloadSize: 1417",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.41.70, DstIP: 10.0.186.163, Protocol: TCP, SrcPort: 48241, DstPort: 8080, Flags: SYN, PayloadSize: 831",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.179.2, DstIP: 10.0.198.230, Protocol: UDP, SrcPort: 60788, DstPort: 53, Flags: ACK, PayloadSize: 1750",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.188.86, DstIP: 10.0.218.189, Protocol: ICMP, SrcPort: 30682, DstPort: 53, Flags: SYN, PayloadSize: 1566",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.59.116, DstIP: 10.0.64.51, Protocol: ICMP, SrcPort: 62558, DstPort: 8080, Flags: FIN, PayloadSize: 1954",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.166.56, DstIP: 10.0.41.38, Protocol: UDP, SrcPort: 10802, DstPort: 22, Flags: FIN, PayloadSize: 88",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.102.204, DstIP: 10.0.215.233, Protocol: TCP, SrcPort: 12456, DstPort: 80, Flags: PSH, PayloadSize: 189",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.209.220, DstIP: 10.0.74.212, Protocol: TCP, SrcPort: 64267, DstPort: 443, Flags: FIN, PayloadSize: 774",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.76.162, DstIP: 10.0.82.87, Protocol: UDP, SrcPort: 30972, DstPort: 53, Flags: SYN, PayloadSize: 1703",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.133.217, DstIP: 10.0.54.141, Protocol: ICMP, SrcPort: 36703, DstPort: 53, Flags: FIN, PayloadSize: 1457",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.107.73, DstIP: 10.0.69.186, Protocol: TCP, SrcPort: 50526, DstPort: 53, Flags: PSH, PayloadSize: 761",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.94.14, DstIP: 10.0.58.189, Protocol: UDP, SrcPort: 42026, DstPort: 53, Flags: RST, PayloadSize: 723",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.0.53, DstIP: 10.0.17.188, Protocol: ICMP, SrcPort: 62313, DstPort: 443, Flags: ACK, PayloadSize: 1767",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.185.196, DstIP: 10.0.217.204, Protocol: UDP, SrcPort: 5351, DstPort: 443, Flags: ACK, PayloadSize: 1568",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.189.228, DstIP: 10.0.225.116, Protocol: ICMP, SrcPort: 47175, DstPort: 80, Flags: RST, PayloadSize: 1503",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.14.42, DstIP: 10.0.229.214, Protocol: TCP, SrcPort: 21763, DstPort: 22, Flags: FIN, PayloadSize: 1624",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.247.174, DstIP: 10.0.205.155, Protocol: UDP, SrcPort: 33573, DstPort: 53, Flags: PSH, PayloadSize: 1272",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.118.203, DstIP: 10.0.144.146, Protocol: ICMP, SrcPort: 3247, DstPort: 22, Flags: PSH, PayloadSize: 1532",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.145.115, DstIP: 10.0.15.191, Protocol: ICMP, SrcPort: 9672, DstPort: 80, Flags: PSH, PayloadSize: 1958",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.195.173, DstIP: 10.0.245.237, Protocol: UDP, SrcPort: 14398, DstPort: 53, Flags: RST, PayloadSize: 1807",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.154.80, DstIP: 10.0.193.72, Protocol: TCP, SrcPort: 44378, DstPort: 443, Flags: FIN, PayloadSize: 893",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.136.81, DstIP: 10.0.120.23, Protocol: UDP, SrcPort: 32507, DstPort: 22, Flags: ACK, PayloadSize: 1339",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.154.142, DstIP: 10.0.239.141, Protocol: ICMP, SrcPort: 32462, DstPort: 8080, Flags: RST, PayloadSize: 1669",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.32.130, DstIP: 10.0.113.8, Protocol: ICMP, SrcPort: 29400, DstPort: 80, Flags: RST, PayloadSize: 1433",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.60.219, DstIP: 10.0.209.240, Protocol: ICMP, SrcPort: 19430, DstPort: 22, Flags: FIN, PayloadSize: 1868",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.27.25, DstIP: 10.0.128.111, Protocol: UDP, SrcPort: 48065, DstPort: 443, Flags: ACK, PayloadSize: 993",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.30.10, DstIP: 10.0.49.67, Protocol: ICMP, SrcPort: 17301, DstPort: 80, Flags: SYN, PayloadSize: 1444",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.85.247, DstIP: 10.0.32.10, Protocol: TCP, SrcPort: 7009, DstPort: 53, Flags: RST, PayloadSize: 175",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.81.249, DstIP: 10.0.251.96, Protocol: ICMP, SrcPort: 10281, DstPort: 80, Flags: FIN, PayloadSize: 1688",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.86.246, DstIP: 10.0.65.92, Protocol: ICMP, SrcPort: 7238, DstPort: 53, Flags: ACK, PayloadSize: 1671",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.180.170, DstIP: 10.0.56.103, Protocol: ICMP, SrcPort: 16803, DstPort: 22, Flags: FIN, PayloadSize: 1455",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.169.193, DstIP: 10.0.140.247, Protocol: ICMP, SrcPort: 36537, DstPort: 53, Flags: SYN, PayloadSize: 1509",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.20.68, DstIP: 10.0.7.204, Protocol: TCP, SrcPort: 5190, DstPort: 443, Flags: FIN, PayloadSize: 1259",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.168.30, DstIP: 10.0.76.250, Protocol: ICMP, SrcPort: 29043, DstPort: 53, Flags: FIN, PayloadSize: 490",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.119.241, DstIP: 10.0.246.38, Protocol: TCP, SrcPort: 37235, DstPort: 8080, Flags: PSH, PayloadSize: 1334",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.73.204, DstIP: 10.0.125.172, Protocol: ICMP, SrcPort: 56730, DstPort: 53, Flags: FIN, PayloadSize: 1471",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.26.219, DstIP: 10.0.12.47, Protocol: ICMP, SrcPort: 59125, DstPort: 443, Flags: ACK, PayloadSize: 1740",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.172.51, DstIP: 10.0.208.125, Protocol: ICMP, SrcPort: 31779, DstPort: 22, Flags: SYN, PayloadSize: 1743",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.199.51, DstIP: 10.0.47.25, Protocol: UDP, SrcPort: 61662, DstPort: 53, Flags: RST, PayloadSize: 1900",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.31.76, DstIP: 10.0.10.177, Protocol: ICMP, SrcPort: 53729, DstPort: 443, Flags: RST, PayloadSize: 291",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.34.156, DstIP: 10.0.181.120, Protocol: UDP, SrcPort: 50555, DstPort: 80, Flags: FIN, PayloadSize: 1199",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.68.83, DstIP: 10.0.227.51, Protocol: ICMP, SrcPort: 33722, DstPort: 53, Flags: PSH, PayloadSize: 1603",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.47.118, DstIP: 10.0.225.11, Protocol: UDP, SrcPort: 19501, DstPort: 53, Flags: SYN, PayloadSize: 1262",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.48.179, DstIP: 10.0.235.125, Protocol: UDP, SrcPort: 8804, DstPort: 22, Flags: FIN, PayloadSize: 454",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.113.167, DstIP: 10.0.245.40, Protocol: ICMP, SrcPort: 45613, DstPort: 8080, Flags: SYN, PayloadSize: 1559",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.38.109, DstIP: 10.0.185.181, Protocol: ICMP, SrcPort: 51698, DstPort: 8080, Flags: ACK, PayloadSize: 353",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.243.24, DstIP: 10.0.172.244, Protocol: ICMP, SrcPort: 61843, DstPort: 8080, Flags: PSH, PayloadSize: 1968",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.127.20, DstIP: 10.0.175.220, Protocol: ICMP, SrcPort: 11027, DstPort: 22, Flags: ACK, PayloadSize: 783",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.197.197, DstIP: 10.0.88.105, Protocol: ICMP, SrcPort: 13670, DstPort: 80, Flags: ACK, PayloadSize: 1072",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.120.223, DstIP: 10.0.87.48, Protocol: ICMP, SrcPort: 53696, DstPort: 53, Flags: PSH, PayloadSize: 1926",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.216.6, DstIP: 10.0.123.194, Protocol: ICMP, SrcPort: 38911, DstPort: 53, Flags: SYN, PayloadSize: 1866",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.226.190, DstIP: 10.0.232.247, Protocol: UDP, SrcPort: 32915, DstPort: 53, Flags: RST, PayloadSize: 1814",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.83.18, DstIP: 10.0.204.95, Protocol: UDP, SrcPort: 52173, DstPort: 53, Flags: FIN, PayloadSize: 35",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.157.68, DstIP: 10.0.177.6, Protocol: ICMP, SrcPort: 3574, DstPort: 8080, Flags: ACK, PayloadSize: 319",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.216.32, DstIP: 10.0.44.103, Protocol: ICMP, SrcPort: 65184, DstPort: 80, Flags: ACK, PayloadSize: 1553",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.48.54, DstIP: 10.0.3.64, Protocol: ICMP, SrcPort: 47240, DstPort: 22, Flags: FIN, PayloadSize: 1505",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.86.75, DstIP: 10.0.145.60, Protocol: ICMP, SrcPort: 41862, DstPort: 22, Flags: ACK, PayloadSize: 1804",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.191.26, DstIP: 10.0.218.98, Protocol: TCP, SrcPort: 62107, DstPort: 8080, Flags: FIN, PayloadSize: 1370",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.51.76, DstIP: 10.0.34.162, Protocol: TCP, SrcPort: 4111, DstPort: 22, Flags: PSH, PayloadSize: 1802",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.210.91, DstIP: 10.0.252.12, Protocol: UDP, SrcPort: 54271, DstPort: 22, Flags: RST, PayloadSize: 1240",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.49.38, DstIP: 10.0.228.174, Protocol: TCP, SrcPort: 8251, DstPort: 22, Flags: RST, PayloadSize: 272",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.208.21, DstIP: 10.0.160.104, Protocol: TCP, SrcPort: 13530, DstPort: 22, Flags: RST, PayloadSize: 1525",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.179.210, DstIP: 10.0.164.70, Protocol: ICMP, SrcPort: 31469, DstPort: 443, Flags: SYN, PayloadSize: 527",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.100.7, DstIP: 10.0.182.173, Protocol: TCP, SrcPort: 33072, DstPort: 80, Flags: SYN, PayloadSize: 737",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.241.41, DstIP: 10.0.21.27, Protocol: TCP, SrcPort: 49394, DstPort: 8080, Flags: FIN, PayloadSize: 908",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.246.234, DstIP: 10.0.229.236, Protocol: ICMP, SrcPort: 21799, DstPort: 8080, Flags: RST, PayloadSize: 1609",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.205.12, DstIP: 10.0.106.86, Protocol: ICMP, SrcPort: 33861, DstPort: 443, Flags: PSH, PayloadSize: 1935",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.223.245, DstIP: 10.0.187.68, Protocol: ICMP, SrcPort: 37794, DstPort: 22, Flags: ACK, PayloadSize: 1992",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.225.109, DstIP: 10.0.131.93, Protocol: UDP, SrcPort: 32710, DstPort: 443, Flags: RST, PayloadSize: 1514",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.62.80, DstIP: 10.0.203.26, Protocol: ICMP, SrcPort: 46834, DstPort: 80, Flags: FIN, PayloadSize: 1496",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.151.12, DstIP: 10.0.181.64, Protocol: ICMP, SrcPort: 7647, DstPort: 8080, Flags: PSH, PayloadSize: 1658",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.54.202, DstIP: 10.0.190.53, Protocol: ICMP, SrcPort: 49118, DstPort: 22, Flags: SYN, PayloadSize: 1860",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.134.24, DstIP: 10.0.189.118, Protocol: ICMP, SrcPort: 21122, DstPort: 80, Flags: FIN, PayloadSize: 1067",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.16.132, DstIP: 10.0.64.222, Protocol: UDP, SrcPort: 6369, DstPort: 53, Flags: PSH, PayloadSize: 940",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.76.60, DstIP: 10.0.204.27, Protocol: ICMP, SrcPort: 27985, DstPort: 22, Flags: PSH, PayloadSize: 772",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.82.114, DstIP: 10.0.52.147, Protocol: UDP, SrcPort: 60569, DstPort: 80, Flags: SYN, PayloadSize: 1482",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.192.48, DstIP: 10.0.41.81, Protocol: ICMP, SrcPort: 48281, DstPort: 80, Flags: FIN, PayloadSize: 1899",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.191.225, DstIP: 10.0.185.143, Protocol: ICMP, SrcPort: 54461, DstPort: 443, Flags: RST, PayloadSize: 1850",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.143.149, DstIP: 10.0.224.102, Protocol: UDP, SrcPort: 6866, DstPort: 8080, Flags: PSH, PayloadSize: 794",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.57.170, DstIP: 10.0.37.135, Protocol: UDP, SrcPort: 39771, DstPort: 53, Flags: PSH, PayloadSize: 1006",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.128.67, DstIP: 10.0.169.58, Protocol: ICMP, SrcPort: 12503, DstPort: 8080, Flags: ACK, PayloadSize: 965",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.215.111, DstIP: 10.0.10.149, Protocol: ICMP, SrcPort: 28865, DstPort: 443, Flags: FIN, PayloadSize: 1558",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.118.219, DstIP: 10.0.248.182, Protocol: ICMP, SrcPort: 23680, DstPort: 53, Flags: RST, PayloadSize: 1003",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.72.32, DstIP: 10.0.132.191, Protocol: ICMP, SrcPort: 40564, DstPort: 80, Flags: PSH, PayloadSize: 261",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.149.140, DstIP: 10.0.214.174, Protocol: TCP, SrcPort: 20851, DstPort: 22, Flags: ACK, PayloadSize: 795",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.99.182, DstIP: 10.0.143.234, Protocol: TCP, SrcPort: 36120, DstPort: 22, Flags: ACK, PayloadSize: 558",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.170.46, DstIP: 10.0.239.34, Protocol: ICMP, SrcPort: 26358, DstPort: 53, Flags: ACK, PayloadSize: 1998",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.113.54, DstIP: 10.0.215.65, Protocol: UDP, SrcPort: 17840, DstPort: 443, Flags: SYN, PayloadSize: 1170",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.173.78, DstIP: 10.0.200.75, Protocol: TCP, SrcPort: 41068, DstPort: 80, Flags: PSH, PayloadSize: 1716",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.42.151, DstIP: 10.0.150.246, Protocol: TCP, SrcPort: 33623, DstPort: 22, Flags: ACK, PayloadSize: 1105",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.198.98, DstIP: 10.0.80.217, Protocol: ICMP, SrcPort: 46419, DstPort: 443, Flags: FIN, PayloadSize: 1847",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.48.251, DstIP: 10.0.244.197, Protocol: TCP, SrcPort: 34636, DstPort: 22, Flags: FIN, PayloadSize: 1667",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.48.99, DstIP: 10.0.70.230, Protocol: TCP, SrcPort: 11247, DstPort: 53, Flags: PSH, PayloadSize: 824",
+    "label": 0
+  },
+  {
+    "text": "SrcIP: 192.168.133.50, DstIP: 10.0.84.140, Protocol: UDP, SrcPort: 50970, DstPort: 53, Flags: SYN, PayloadSize: 914",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.211.158, DstIP: 10.0.107.21, Protocol: UDP, SrcPort: 64966, DstPort: 53, Flags: ACK, PayloadSize: 1637",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.186.20, DstIP: 10.0.127.199, Protocol: ICMP, SrcPort: 46287, DstPort: 22, Flags: ACK, PayloadSize: 1844",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.164.131, DstIP: 10.0.198.238, Protocol: UDP, SrcPort: 57450, DstPort: 53, Flags: SYN, PayloadSize: 1779",
+    "label": 1
+  },
+  {
+    "text": "SrcIP: 192.168.33.14, DstIP: 10.0.98.124, Protocol: ICMP, SrcPort: 52649, DstPort: 8080, Flags: RST, PayloadSize: 563",
+    "label": 0
+  }
+]

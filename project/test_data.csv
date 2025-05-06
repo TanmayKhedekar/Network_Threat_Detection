@@ -1,0 +1,4 @@
+text
+"SrcIP: 192.168.238.166, DstIP: 10.0.228.31, Protocol: TCP, SrcPort: 41521, DstPort: 22, Flags: ACK, PayloadSize: 477"
+"SrcIP: 192.168.238.167, DstIP: 10.0.228.32, Protocol: UDP, SrcPort: 41221, DstPort: 53, Flags: NONE, PayloadSize: 120"
+...
